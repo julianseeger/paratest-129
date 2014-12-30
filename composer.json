@@ -1,0 +1,5 @@
+{
+  "require": {
+    "brianium/paratest": "0.9.3"
+  }
+}
